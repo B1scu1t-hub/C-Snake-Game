@@ -1,0 +1,26 @@
+# ninja log v5
+3	732	7392602174726322	CMakeFiles/SnakeGame.dir/main.cpp.obj	eaa96cfe0acc94be
+786	966	7392602177055882	SnakeGame.exe	ea041a61ae125565
+1	20	0	clean	f1c0810b4f0350db
+2	350	7392604230609956	build.ninja	5209d94902a9f650
+17	786	7392602175297670	CMakeFiles/SnakeGame.dir/Snake.cpp.obj	ce23b14d0ea814f6
+0	12	0	clean	5a346accd78202e1
+1	13	0	clean	5a346accd78202e1
+4	712	7392606640755514	CMakeFiles/SnakeGame.dir/main.cpp.obj	eaa96cfe0acc94be
+20	764	7392606641277879	CMakeFiles/SnakeGame.dir/Snake.cpp.obj	ce23b14d0ea814f6
+764	945	7392606643051236	SnakeGame.exe	ea041a61ae125565
+0	20	0	clean	5a346accd78202e1
+0	19	0	clean	5a346accd78202e1
+3	674	7392607533670833	CMakeFiles/SnakeGame.dir/main.cpp.obj	eaa96cfe0acc94be
+19	725	7392607534194264	CMakeFiles/SnakeGame.dir/Snake.cpp.obj	ce23b14d0ea814f6
+725	894	7392607535843195	SnakeGame.exe	ea041a61ae125565
+4	636	7392607992826983	CMakeFiles/SnakeGame.dir/main.cpp.obj	eaa96cfe0acc94be
+636	792	7392607994377232	SnakeGame.exe	ea041a61ae125565
+5	709	7392608363179295	CMakeFiles/SnakeGame.dir/main.cpp.obj	eaa96cfe0acc94be
+709	864	7392608364723493	SnakeGame.exe	ea041a61ae125565
+3	762	7392608591880763	CMakeFiles/SnakeGame.dir/main.cpp.obj	eaa96cfe0acc94be
+762	920	7392608593450469	SnakeGame.exe	ea041a61ae125565
+5	689	7392608982127227	CMakeFiles/SnakeGame.dir/main.cpp.obj	eaa96cfe0acc94be
+689	841	7392608983657530	SnakeGame.exe	ea041a61ae125565
+5	644	7392609256469613	CMakeFiles/SnakeGame.dir/main.cpp.obj	eaa96cfe0acc94be
+644	787	7392609257897068	SnakeGame.exe	ea041a61ae125565
